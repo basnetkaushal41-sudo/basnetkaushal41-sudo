@@ -19,15 +19,13 @@
 - 🌱 Starting my journey in programming.
 - 💡 Interested in technology and software development.
 - 🚀 Learning new skills every day.
-- 🎯 My goal is to become a Software Engineer.
-- 🇳🇵 Proudly from Nepal.
+- 🎯 My goal is to become a Software Developer.
+- 🇳🇵 From Nepal.
 
 ## 🎯 My Learning Goals
 
 - [ ] Learn programming fundamentals.
-- [ ] Learn HTML and CSS.
 - [ ] Explore Python and JavaScript.
-- [ ] Build my first project.
 - [ ] Improve problem-solving skills.
 
 ## 🛠️ Technologies I'm Exploring
