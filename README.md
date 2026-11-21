@@ -31,7 +31,7 @@
 ## 🛠️ Technologies I'm Exploring
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,js,python,git,github,vscode" />
 </p>
 
 ## 📊 GitHub Statistics
