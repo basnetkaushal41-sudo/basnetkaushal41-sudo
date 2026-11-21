@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Learning+%7C+Building+%7C+Growing;Welcome+to+my+GitHub!" />
 
 ### 💻 Aspiring Software Developer
-**🇳🇵 Nepal | 🚀 Future Software Engineer**
+**🇳🇵 From Nepal | Beginner developer **
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/basnetkaushal41-sudo)
 
